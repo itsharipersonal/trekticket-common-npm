@@ -16,4 +16,4 @@ export * from './events/subjects';
 export * from './events/ticket-created-event';
 export * from './events/ticket-updated-event';
 
-export * from './e'
+export * from './publisher/publisher-class'
